@@ -1,0 +1,43 @@
+.title{color:#800000;
+font-family:"Times New Roman", Georgia, Serif;
+}
+.glyphicon{color:red;}
+.desc{color:#006600;
+font-style:normal;
+font-size:5px;}
+.carousel {
+    background:#1A237E;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid powderblue;
+    min-height:400px;
+}
+.row-footer{
+    background-color: #AfAfAf;
+    margin:0px auto;
+    padding: 30px 0px 30px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #7986CB ;
+    color:floralwhite;
+}
+body{
+    padding:10px 0px 0px 0px;
+    z-index:0;
+}
+.affix {
+    top:100px;
+}
+h2{color:blue;
+  font-family:"Times New Roman", Georgia, Serif;}
+h4{color:#800000;
+font-style:bold;}
